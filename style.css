@@ -25,6 +25,7 @@ body{
   border-radius: 5px;
   box-shadow: 3px 5px 10px rgb(255, 255, 255);
   background-color: rgb(27, 20, 72);
+  overflow: auto;
 }
 
 #label{
